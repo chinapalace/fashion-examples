@@ -1,0 +1,2 @@
+webpackJsonp([44611889172531],{307:function(t,e){t.exports={data:{markdownRemark:{html:"<h1>Fashion Design Work</h1>\n<p>Use the arrow keys left and right to navigate</p>"}},pathContext:{absolutePath:"/Users/justinmclaren/Documents/Projects/fashion-portfolio/my-slides/src/pages/1.md"}}}});
+//# sourceMappingURL=path---1-0a275a85d9226af1c556.js.map
