@@ -1,2 +1,0 @@
-webpackJsonp([0x8f0ce58d3892],{308:function(e,s){e.exports={data:{markdownRemark:{html:'<img src="https://preview.ibb.co/eTRdec/KMO_CAD.jpg">'}},pathContext:{absolutePath:"/Users/justinmclaren/Documents/Projects/fashion-portfolio/my-slides/src/pages/2.md"}}}});
-//# sourceMappingURL=path---2-aa542c1f7340f7c3429e.js.map
