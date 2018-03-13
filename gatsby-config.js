@@ -1,6 +1,7 @@
 module.exports = {
+  pathPrefix: `fashion-examples`,
   siteMetadata: {
-    name: `Justin McLaren`,
+    name: ``,
     title: `Fashion Design Work`,
     date: `March 13, 2018`
   },

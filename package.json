@@ -15,6 +15,7 @@
     "gatsby-remark-smartypants": "^1.4.10",
     "gatsby-source-filesystem": "^1.5.18",
     "gatsby-transformer-remark": "^1.7.31",
+    "gh-pages": "^1.1.0",
     "history": "^4.7.2",
     "react-swipeable": "^4.2.0",
     "react-transition-group": "^2.2.1"
@@ -28,7 +29,8 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "devDependencies": {
     "prettier": "^1.10.2"
