@@ -1,0 +1,2 @@
+webpackJsonp([24461200302109],{310:function(t,s){t.exports={data:{markdownRemark:{html:'<img src="https://preview.ibb.co/d2sZKc/Screen_Shot_2018_03_13_at_3_04_16_PM.png" >'}},pathContext:{absolutePath:"/Users/justinmclaren/Documents/Projects/fashion-portfolio/my-slides/src/pages/4.md"}}}});
+//# sourceMappingURL=path---4-05de84a60096dbce4101.js.map
